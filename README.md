@@ -1,0 +1,3 @@
+ - New: hotel nights are auto-calculated from check-in/check-out dates.
+ - New: clone and reorder days, activity presets and quick-add buttons to speed up itinerary creation.
+ - Autosave & Templates: The app autosaves your work to localStorage. Use "Start from Template" to load a sample itinerary or "Restore Draft" to recover your last draft.
