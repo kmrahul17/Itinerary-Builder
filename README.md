@@ -36,12 +36,3 @@ npm run dev
 ## Notes
 - The PDF generation runs entirely in the browser (html2pdf.js). For very long itineraries the page-break behavior may need fine-tuning.
 - This is a frontend-only demo — no server required. Use the export/import JSON idea (planned) to share itineraries between devices.
-
-
-
-If you'd like, I can:
-- Add a downloadable zip of starter templates,
-- Embed the actual Drive demo link for you,
-- Improve the README with screenshots or a short GIF of the export flow.
-
-Tell me which you'd like next and I will implement it.
